@@ -1,0 +1,6 @@
+**/*.dSYM/
+Linear Rates Study/PPP_C++/**/chapter_*
+Linear Rates Study/PPP_C++/**/ppp3_*
+Linear Rates Study/PPP_C++/**/characters
+Linear Rates Study/PPP_C++/**/hello
+.DS_Store
